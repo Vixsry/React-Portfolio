@@ -1,0 +1,26 @@
+.about-section {
+  padding: 5rem 0;
+  background-color: #f8f9fa;
+}
+
+.skills-container {
+  margin-top: 2rem;
+}
+
+.skill {
+  margin-bottom: 1.5rem;
+}
+
+.skill span {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.progress {
+  height: 10px;
+  border-radius: 5px;
+}
+
+.progress-bar {
+  background-color: var(--secondary-color);
+}
